@@ -1,18 +1,17 @@
 # Team Information
 
-**Course:** _[fill your course code and name]_
+**Course:** _[Autonomous Systems 2025-31641-T1]_
 
 **Semester:** Semester 2, 2020
 
-**Instructor:** _[name of your instructor]_
+**Instructor:** _[Jorge Lobo]_
 
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** _[tortosa]_
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
-* Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
+* 269318 - Jose Angel Mola Audí - joseangel.mola01@estudiant.upf.edu - amolaaudi
+* 269557- Jordi Colomé Roig - jordi.colome@estudiantat.upc.edu - jordicolome789
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
