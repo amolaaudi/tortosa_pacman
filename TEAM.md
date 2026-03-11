@@ -1,12 +1,12 @@
 # Team Information
 
-**Course:** _[Autonomous Systems 2025-31641-T1]_
+**Course:** *\[Autonomous Systems 2025-31641-T1]*
 
-**Semester:** Semester 2, 2020
+**Semester:** Semester 2, 2026
 
-**Instructor:** _[Jorge Lobo]_
+**Instructor:** *\[Jorge Lobo]*
 
-**Team name:** _[tortosa]_
+**Team name:** *\[tortosa]*
 
 **Team members:**
 
@@ -16,3 +16,4 @@
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
 Student numbers should just be the **numbers**.
+
